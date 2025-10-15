@@ -7,7 +7,7 @@
 
 > Transform complex goals into actionable task plans with AI-powered intelligence, realistic time estimates, and smart dependency management.
 
-![TaskFlow Demo](https://www.placeholder.com/)
+[![TaskFlow Demo](DEMO)](https://youtu.be/BTfTyHcgCFA)
 
 ## 🌟 Features
 
